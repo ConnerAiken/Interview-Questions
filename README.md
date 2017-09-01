@@ -19,6 +19,10 @@ A collection of interview questions that I have encountered
 
 [Example](basic-classes.js)
 
+- Create a function which tests if a string is a palindrome, the function should return a boolean and handle unexpected whitespace.
+
+[Example](palindrome.js) - [Live Example](https://jsfiddle.net/conneraiken/5qfj32z0/2/)
+
 ## CSS/SCSS
 
 ## PHP

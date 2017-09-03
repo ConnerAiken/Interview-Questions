@@ -10,6 +10,10 @@ A collection of interview questions that I have encountered
   
 
 ## Javascript
+
+- Given these javascript timer examples: https://jsfiddle.net/conneraiken/9m75sgbj/1/ https://jsfiddle.net/conneraiken/9m75sgbj/2/  - which execute first/last and why?
+
+My guess was that the first declared exectures first if the timer delays are the same and if they are 1 ms off, the first would execute. The interviewer said I was wrong so I must be confusing the question.
  
 - *FizzBuzz*: Create a function which loops through an array of 100 random numbers and log a message to the console everytime there is a multiple of 5 and a multiple of 3. If it is a multiple of 5, log "Fizz". If it is a multiple of 3, log "Buzz". If it is a multiple of both, log "FizzBuzz"
  

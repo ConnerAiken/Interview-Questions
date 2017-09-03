@@ -23,11 +23,17 @@ A collection of interview questions that I have encountered
 
 [Example](palindrome.js) - [Live Example](https://jsfiddle.net/conneraiken/5qfj32z0/2/)
 
+- Create a function that reverses an array in place
+
+
 ## CSS/SCSS
 
 ## PHP
 
 ## C#/C++
+
+- Write an example of a Binary Search Tree and the classes that would power it
+- Write an example of a linked/doubly linked list and the classes that would power it
 
 ## HTML
 

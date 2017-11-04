@@ -4,6 +4,14 @@ A collection of interview questions that I have encountered
 
 ## General/Psuedocode
 
+- What would a linked list class look like?
+
+- What would a binary search tree class look like?
+
+- Provide an example of traversing through a BST while printing the current nodes value. No specific order.
+
+- Given a linked list, how would you access it at nth index? 
+
 - Given an array of values which correspond to a bar graph, calculate if the bar graph could hold water if poured in the middle of the graph and if so how much?
 
 [Visual Example](http://i.imgur.com/T9ETo7j.jpg)
@@ -32,6 +40,8 @@ My guess was that the first declared exectures first if the timer delays are the
 
 ## CSS/SCSS
 
+- What are your favorite features of CSS3 and why?
+
 ## PHP
 
 ## C#/C++
@@ -40,6 +50,8 @@ My guess was that the first declared exectures first if the timer delays are the
 - Write an example of a linked/doubly linked list and the classes that would power it
 
 ## HTML
+
+- What are your favorite features of HTML5 and why?
 
 ## Python
  

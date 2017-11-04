@@ -23,6 +23,14 @@ A collection of interview questions that I have encountered
 
 ## Javascript
 
+- What is a closure?
+
+- What is the difference between javascript classes and strongly typed language classes?
+
+- How do you control the flow of multiple asynchronous functions in javascript?
+
+- What is the difference between the methods: call, bind and apply?
+
 - Given these javascript timer examples: https://jsfiddle.net/conneraiken/9m75sgbj/1/ https://jsfiddle.net/conneraiken/9m75sgbj/2/  - which execute first/last and why?
 
 My guess was that the first declared exectures first if the timer delays are the same and if they are 1 ms off, the first would execute. The interviewer said I was wrong so I must be confusing the question.

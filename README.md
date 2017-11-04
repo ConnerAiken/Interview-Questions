@@ -23,6 +23,10 @@ A collection of interview questions that I have encountered
 
 ## Javascript
 
+- What is an octal literal and when is it typically used?
+
+- Would you ever use eval() and why?
+
 - What is a closure?
 
 - What is the difference between javascript classes and strongly typed language classes?

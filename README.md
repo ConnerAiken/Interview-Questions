@@ -4,6 +4,8 @@ A collection of interview questions that I have encountered
 
 ## General/Psuedocode
 
+- If you had to implement real time notifications for a web app, how would you do it?
+
 - What would a linked list class look like?
 
 - What would a binary search tree class look like?
@@ -11,6 +13,8 @@ A collection of interview questions that I have encountered
 - Provide an example of traversing through a BST while printing the current nodes value. No specific order.
 
 - Given a linked list, how would you access it at nth index? 
+
+- What are the advantages of using linked lists over arrays and vice versa?
 
 - Given an array of values which correspond to a bar graph, calculate if the bar graph could hold water if poured in the middle of the graph and if so how much?
 
@@ -52,6 +56,7 @@ My guess was that the first declared exectures first if the timer delays are the
 ## HTML
 
 - What are your favorite features of HTML5 and why?
+
 
 ## Python
  
